@@ -8,4 +8,4 @@ The intention of this repository is to test GPT-5's capability in reproducing co
 
 All the instances are from the SATLIB's `Uniform Random-3-SAT/uf20-91`  which are all satisfiable.
 
-Install dependencies using Poetry using `poetry install`.
+Install dependencies using Poetry, `poetry install`.
